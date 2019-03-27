@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+remote_theme : mmistakes/minimal-mistakes
+
+minimal_mistakes_skin    : "default"
+locale                   : "ko-KR"
+title                    : "Today Code"
+title_separator          : "-"
+name                     : "Today Code"
+description              : "Today Code"
+url : "https://corazzon.github.io"
+baseurl : "todaycode"
